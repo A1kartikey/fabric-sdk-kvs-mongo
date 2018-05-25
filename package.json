@@ -1,6 +1,6 @@
 {
     "name": "fabric-ca-kvs-mongo",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "mongodb kvs for fabric ca",
     "main": "index.js",
     "scripts": {
